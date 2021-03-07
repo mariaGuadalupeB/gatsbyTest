@@ -1,0 +1,2 @@
+(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[678],{7704:function(e,t,l){"use strict";l.r(t),l.d(t,{default:function(){return a}});var r=l(7294);function a(){return r.createElement("div",{style:{color:"purple"}},r.createElement("h1",null,"Hello Gatsby!"),r.createElement("p",null,"What a world."),r.createElement("img",{src:"https://source.unsplash.com/random/400x200",alt:""}))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-4f304db64aa4a5fb67c1.js.map
